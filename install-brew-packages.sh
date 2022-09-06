@@ -1,0 +1,1 @@
+brew install autojump brave-browser git-extras git-plus fish flycut intellij-idea iterm2 keepassxc zoom
